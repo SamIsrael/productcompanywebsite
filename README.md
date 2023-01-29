@@ -38,9 +38,10 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-### Home Page:
-
-![output](./images/homepage.jpg)
+![image](./Screenshot%20from%202023-01-29%2021-03-27.png)
+![image](./Screenshot%20from%202023-01-29%2021-03-42.png)
+![image](./Screenshot%20from%202023-01-29%2021-03-53.png)
+![image](./Screenshot%20from%202023-01-29%2021-03-59.png)
 
 ## Result:
 
